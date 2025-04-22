@@ -75,3 +75,33 @@ R3:
 
 # Explicação:
 Permitir que os pacotes sejam encaminhados corretamente entre as diferentes redes, utilizando os roteadores intermediários.
+
+## 4. Testes de Conectinidade 
+
+# Comandos utilizados:
+ping -c 3 192.168.X.Y
+
+![Print](screenshot.png)
+
+## 5. Conclusão
+
+# Dificuldades Encontradas
+Entender o roteamento entre sub-redes e configurar as rotas manualmente em cada roteador.
+
+Gerenciar corretamente os nomes das interfaces nos links personalizados.
+
+# Aprendizado
+
+Como configurar roteadores no Mininet com Python.
+
+Como habilitar o roteamento IP com sysctl.
+
+Como adicionar rotas estáticas de forma eficiente.
+
+Importância do planejamento de endereçamento IP.
+
+# Sugestões de Melhoria
+
+Automatizar a verificação de conectividade com um script de ping.
+
+Usar arquivos de log para salvar a saída dos testes.
