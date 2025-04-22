@@ -52,6 +52,7 @@ r1.cmd('ip route add 192.168.2.0/24 via 10.0.0.2')
 ## 3. Rotas Estáticas
 
 #Tabela de rotas por roteador
+
 R1:
 
 192.168.2.0/24 via 10.0.0.2
