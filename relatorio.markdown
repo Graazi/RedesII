@@ -46,6 +46,7 @@ h1.cmd('ip route add default via 192.168.1.1')
 # Rotas estáticas nos roteadores
 r1.cmd('ip route add 192.168.2.0/24 via 10.0.0.2')
 
+```
 
 ## 3. Rotas Estáticas
 
