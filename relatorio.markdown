@@ -6,6 +6,7 @@ A topologia implementada consiste em 4 hosts (h1 a h4) e 3 roteadores (r1 a r3),
 
 ### Esquema da Rede
 
+![Topologia](topologia.png)
 
 ### Tabela de IPs
 
